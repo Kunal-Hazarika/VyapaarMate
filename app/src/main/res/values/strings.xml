@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VyapaarMate</string>
+
+
+    <!-- loginpage strings -->
+
+    <string name="continue_as_a_guest_string"><u>Continue as a guest</u></string>
+    <string name="continue_with_google_string">Continue with Google</string>
+    <string name="login_with_phone_string">Login with Phone</string>
+    <string name="sign_up_ek2_string">Sign Up</string>
+    <string name="let_s_get_started__string">Lets Get Started!</string>
+    <string name="welcome_to_vyapaarmate_string">Welcome \nto VyapaarMate</string>
+
+    <string name="don_t_have_an_account_create"><b>Don\'t have an account? <u>Create</u></b></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="logo_ek1">logo_ek1</string>
+
+</resources>

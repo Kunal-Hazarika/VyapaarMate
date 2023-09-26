@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620708109142",
+    "project_id": "vyapaarmate-f1d43",
+    "storage_bucket": "vyapaarmate-f1d43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620708109142:android:89d52b362876cf19b554f7",
+        "android_client_info": {
+          "package_name": "com.example.vyapaarmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ca5u6Kz_pznEnOKI763dYFET13Q6TgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

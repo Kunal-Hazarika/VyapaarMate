@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+
+    <color name="indicator_color">#FF9500</color>
+    <color name="ellipse_6_color">#8FD0EE</color>
+    <color name="vyaaparmate_color">#000000</color>
+
+    <!-- loginpage colors -->
+
+    <color name="_bg__loginpage_color">#FFFFFF</color>
+    <color name="continue_as_a_guest_color">#219EBC</color>
+    <color name="_bg__frame_1_ek1_color">#000000</color>
+    <color name="continue_with_google_color">#1C1C1C</color>
+    <color name="_bg__login_button_ek1_color">#0C1F43</color>
+    <color name="login_with_phone_color">#FFFDFD</color>
+    <color name="let_s_get_started__color">#414141</color>
+    <color name="welcome_to_vyapaarmate_color">#023047</color>
+    <color name="_bg__logopage_color">#FFFFFF</color>
+
+</resources>
